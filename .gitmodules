@@ -1,0 +1,6 @@
+[submodule "private-lib"]
+	path = libs/private-lib
+	url = https://github.com/omptl/this-private-repo-does-not-exist.git
+[submodule "another-priv"]
+	path = libs/another-priv
+	url = https://github.com/omptl/another-nonexistent-private.git
